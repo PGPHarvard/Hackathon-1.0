@@ -1,5 +1,4 @@
-# Hackathon-1.0
-Repo for PGP Hackathon 1.0
+# PGP Hackathon-1.0
 
 PGP Hackathon in Boston (July 21 & 22, 2018)
 
